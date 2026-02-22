@@ -1,7 +1,7 @@
 
 # Telemetry Core
 
-A production-grade, minimal-overhead observability library for Go. Built for high-performance systems where every nanosecond counts.
+A minimal-overhead observability library for Go. Built for high-performance systems where every nanosecond counts.
 
 ## Features
 
